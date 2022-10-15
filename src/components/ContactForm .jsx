@@ -41,7 +41,7 @@ export default class ContactForm extends Component {
                 Number
                 <input
                     type="tel"
-                    placeholder="Enter number"
+                    placeholder="Enter numbernpm start"
                     name="number"
                     value={number}
                     onChange={this.handleChange}
